@@ -1,0 +1,9 @@
+1. local storage merupakan fungsi di javascript berguna untuk menyimpan data
+    dalam jumlah besar, data tidak akan hilang walaupun browser di close.
+
+2. coockie merupakan fungsi dalam browser untuk menyimpan data selama kita menggunakan browser
+    ataupun rekaman jejak saat menjelajahi suatu browser.
+
+3. perbedaan antara local storage dan sessionStorage, local storage akan selalu menyimpan data saat kita browsing dan dapat diakses kembali kapanpun
+    sedangkan session storage hanya menyimpan data sementara saat kita menjelajahi suatu browser dan tidak dapat kita akses kembali.
+    
